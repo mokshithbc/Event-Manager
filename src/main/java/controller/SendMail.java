@@ -13,7 +13,7 @@ public class SendMail {
     private static final String FROMNAME = "Event Manager";
     private static final String SMTP_USERNAME = "xxxxxx";
     private static final String SMTP_PASSWORD = "xxxxx";
-    private static final String HOST = "email-smtp.ap-south-1.amazonaws.com";
+    private static final String HOST = "xxxxxx";
     private static final int PORT = 587;
 
     protected static void sendMail(String email, int otp) {
